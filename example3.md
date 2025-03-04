@@ -1,4 +1,4 @@
-## Hi, I am Piyush Anand! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Hi, I am Gautam sharma! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 ⚡ Fun fact **It’s all 0’s and 1’s**
 
@@ -10,4 +10,4 @@
 ![chrome offline game cast](assets/dino.gif)
 
 -----
-Credits: [Piyush Anand](https://github.com/anandpiyush1521)
+Credits: [Piyush Anand](https://github.com/gautamsharma5543)
